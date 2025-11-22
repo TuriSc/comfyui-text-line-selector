@@ -1,0 +1,15 @@
+[project]
+name = "Text Line Selector"
+description = "Extracts a single line from multiline string. Useful for batch processing"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/TuriSc/comfyui-text-line-selector"
+
+# Used by Comfy Registry https://comfyregistry.org
+[tool.comfy]
+PublisherId = "turisc"
+DisplayName = "Text Line Selector"
+Icon = ""
