@@ -12,4 +12,4 @@ Repository = "https://github.com/TuriSc/comfyui-text-line-selector"
 [tool.comfy]
 PublisherId = "turisc"
 DisplayName = "Text Line Selector"
-Icon = ""
+Icon = "https://avatars.githubusercontent.com/u/7125134"
